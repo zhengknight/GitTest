@@ -15,5 +15,10 @@ namespace GitFirst
         {
             InitializeComponent();
         }
+
+        private void btnCeshi_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("haha aa");
+        }
     }
 }

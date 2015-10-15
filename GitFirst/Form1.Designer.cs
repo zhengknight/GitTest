@@ -39,6 +39,7 @@
             this.btnCeshi.TabIndex = 0;
             this.btnCeshi.Text = "按钮测试";
             this.btnCeshi.UseVisualStyleBackColor = true;
+            this.btnCeshi.Click += new System.EventHandler(this.btnCeshi_Click);
             // 
             // Form1
             // 
