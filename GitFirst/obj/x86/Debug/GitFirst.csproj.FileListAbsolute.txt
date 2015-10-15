@@ -1,0 +1,6 @@
+F:\OpenCVProjects\GitTest\GitFirst\bin\Debug\GitFirst.exe
+F:\OpenCVProjects\GitTest\GitFirst\bin\Debug\GitFirst.pdb
+F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.Properties.Resources.resources
+F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.csproj.GenerateResource.Cache
+F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.exe
+F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.pdb
