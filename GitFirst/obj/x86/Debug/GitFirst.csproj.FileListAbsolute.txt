@@ -4,3 +4,4 @@ F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.Properties.Resources.r
 F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.csproj.GenerateResource.Cache
 F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.exe
 F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.pdb
+F:\OpenCVProjects\GitTest\GitFirst\obj\x86\Debug\GitFirst.Form1.resources

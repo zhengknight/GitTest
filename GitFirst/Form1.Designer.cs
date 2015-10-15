@@ -28,12 +28,33 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.btnCeshi = new System.Windows.Forms.Button();
+            this.SuspendLayout();
+            // 
+            // btnCeshi
+            // 
+            this.btnCeshi.Location = new System.Drawing.Point(65, 53);
+            this.btnCeshi.Name = "btnCeshi";
+            this.btnCeshi.Size = new System.Drawing.Size(75, 23);
+            this.btnCeshi.TabIndex = 0;
+            this.btnCeshi.Text = "按钮测试";
+            this.btnCeshi.UseVisualStyleBackColor = true;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Controls.Add(this.btnCeshi);
+            this.Name = "Form1";
             this.Text = "Form1";
+            this.ResumeLayout(false);
+
         }
 
         #endregion
+
+        private System.Windows.Forms.Button btnCeshi;
     }
 }
 
